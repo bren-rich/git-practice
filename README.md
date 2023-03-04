@@ -1,1 +1,1 @@
-This is a my practice repo
+This is a my repo for practicing git!
